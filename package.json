@@ -1,0 +1,19 @@
+{
+  "name": "gf-service-booking-service-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^2.6.1",
+    "playwright": "^0.13.0"
+  },
+  "devDependencies": {
+    "@wdio/selenium-standalone-service": "^6.0.15",
+    "import-export": "^1.0.1"
+  }
+}
